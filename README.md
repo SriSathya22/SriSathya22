@@ -1,8 +1,9 @@
-# ReadMe File
+# Hi there!!
 
-Description
+## I am Dune Durga Sri Sathya
 
-## Steps
-1. Trying Something new
-2. Added one more change
-3. Merged
+* Passionate Developer
+* Loves to work with Frontend Technologies 
+* Experience working in C#.NET, Java, Python
+* Diving now in React.js
+* Happy to work as a Team for any frontend projects....
